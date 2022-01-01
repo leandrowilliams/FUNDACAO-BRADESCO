@@ -16,3 +16,13 @@ Para facilitar seu estudo, você também poderá acessar este conteúdo por meio
 <a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Fundamento%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/APOSTILA" target="_blank"> <img align="center" alt="leandrowilliams-Java" height="60" width="70" src="https://i.imgur.com/4gFwZsp.png" /> </a></br>
 
 ##
+
+<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Fundamento%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o" target="_blank"><h2>Introdução à Programação Orientada a Objetos POO</h2></a></br>
+
+Estrutura do Conteúdo: </br>
+Módulo 1 - Programação estruturada versus orientada a objetos </br>
+Módulo 2 - Os quatro pilares da programação orientada a objetos</br>
+Módulo 3 - Linguagens orientadas a objeto </br>
+
+Pré-requisitos:</br>
+Recomendamos a realização prévia do curso Fundamentos de Lógica de Programação.</br>
