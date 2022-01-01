@@ -17,7 +17,7 @@ Para facilitar seu estudo, você também poderá acessar este conteúdo por meio
 
 ##
 
-<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Fundamento%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o" target="_blank"><h2>Introdução à Programação Orientada a Objetos POO</h2></a></br>
+<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)" target="_blank"><h2>Introdução à Programação Orientada a Objetos POO</h2></a></br>
 
 Estrutura do Conteúdo: </br>
 Módulo 1 - Programação estruturada versus orientada a objetos </br>
