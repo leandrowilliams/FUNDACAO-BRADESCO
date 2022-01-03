@@ -26,3 +26,6 @@ Módulo 3 - Linguagens orientadas a objeto </br>
 
 Pré-requisitos:</br>
 Recomendamos a realização prévia do curso Fundamentos de Lógica de Programação.</br>
+<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)/APOSTILA" target="_blank"> <img align="center" alt="leandrowilliams-Java" height="60" width="70" src="https://i.imgur.com/4gFwZsp.png" /> </a></br>
+
+##
