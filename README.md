@@ -29,3 +29,21 @@ Recomendamos a realização prévia do curso Fundamentos de Lógica de Programa�
 <a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)/APOSTILA" target="_blank"> <img align="center" alt="leandrowilliams-Java" height="60" width="70" src="https://i.imgur.com/4gFwZsp.png" /> </a></br>
 
 ##
+
+<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)" target="_blank"><h2>HTML - Básico</h2></a></br>
+
+Estrutura do Conteúdo: </br>
+Módulo 1 – Introdução</br>
+Módulo 2 – HTML e a Web</br>
+Módulo 3 – Criando um documento HTML</br>
+Módulo 4 – Formatando um documento HTML</br>
+Módulo 5 – Criando listas</br>
+Módulo 6 – Inserindo imagens</br>
+Módulo 7 – Criando links</br>
+Módulo 8 – Combinando tags</br>
+Módulo 9 – Usando imagens mapeadas</br>
+
+Pré-requisitos:</br>
+Não há pré-requisitos para a realização deste curso.</br>
+
+##
