@@ -30,7 +30,7 @@ Recomendamos a realização prévia do curso Fundamentos de Lógica de Programa�
 
 ##
 
-<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)" target="_blank"><h2>HTML - Básico</h2></a></br>
+<a href="https://github.com/leandrowilliams/FUNDACAO-BRADESCO/tree/main/HTML%20B%C3%A1sico" target="_blank"><h2>HTML - Básico</h2></a></br>
 
 Estrutura do Conteúdo: </br>
 Módulo 1 – Introdução</br>
